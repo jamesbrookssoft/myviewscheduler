@@ -1,6 +1,6 @@
-package com.preslavrachev.iviewscheduler.persistence.entity
+package com.jamesbrookssoft.iviewscheduler.persistence.entity
 
-import com.preslavrachev.iviewscheduler.business.model.UserType
+import com.jamesbrookssoft.iviewscheduler.business.model.UserType
 import org.springframework.data.annotation.Id
 
 /**

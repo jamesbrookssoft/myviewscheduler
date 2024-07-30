@@ -1,7 +1,7 @@
-package com.preslavrachev.iviewscheduler.persistence.repository
+package com.jamesbrookssoft.iviewscheduler.persistence.repository
 
-import com.preslavrachev.iviewscheduler.persistence.entity.AvailabilityDayEntity
-import com.preslavrachev.iviewscheduler.persistence.entity.UserEntity
+import com.jamesbrookssoft.iviewscheduler.persistence.entity.AvailabilityDayEntity
+import com.jamesbrookssoft.iviewscheduler.persistence.entity.UserEntity
 import org.springframework.data.mongodb.repository.MongoRepository
 import java.time.LocalDate
 

@@ -1,7 +1,7 @@
-package com.preslavrachev.iviewscheduler.persistence.entity
+package com.jamesbrookssoft.iviewscheduler.persistence.entity
 
-import com.preslavrachev.iviewscheduler.business.model.AvailabilityDay
-import com.preslavrachev.iviewscheduler.business.model.TimeRange
+import com.jamesbrookssoft.iviewscheduler.business.model.AvailabilityDay
+import com.jamesbrookssoft.iviewscheduler.business.model.TimeRange
 import net.onedaybeard.bitvector.BitVector
 import net.onedaybeard.bitvector.bitsOf
 import org.springframework.data.annotation.Id

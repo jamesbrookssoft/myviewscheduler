@@ -1,11 +1,11 @@
-package com.preslavrachev.iviewscheduler.business
+package com.jamesbrookssoft.iviewscheduler.business
 
-import com.preslavrachev.iviewscheduler.business.model.AvailabilityDay
-import com.preslavrachev.iviewscheduler.business.model.TimeRange
-import com.preslavrachev.iviewscheduler.business.model.TimeSlot
-import com.preslavrachev.iviewscheduler.persistence.entity.AvailabilityDayEntity
-import com.preslavrachev.iviewscheduler.persistence.repository.AppointmentDayEntityRepository
-import com.preslavrachev.iviewscheduler.persistence.repository.UserRepository
+import com.jamesbrookssoft.iviewscheduler.business.model.AvailabilityDay
+import com.jamesbrookssoft.iviewscheduler.business.model.TimeRange
+import com.jamesbrookssoft.iviewscheduler.business.model.TimeSlot
+import com.jamesbrookssoft.iviewscheduler.persistence.entity.AvailabilityDayEntity
+import com.jamesbrookssoft.iviewscheduler.persistence.repository.AppointmentDayEntityRepository
+import com.jamesbrookssoft.iviewscheduler.persistence.repository.UserRepository
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.Transactional
 import java.time.LocalDate

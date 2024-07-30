@@ -1,4 +1,4 @@
-package com.preslavrachev.iviewscheduler.business.model
+package com.jamesbrookssoft.iviewscheduler.business.model
 
 import java.time.LocalDate
 import java.time.LocalTime

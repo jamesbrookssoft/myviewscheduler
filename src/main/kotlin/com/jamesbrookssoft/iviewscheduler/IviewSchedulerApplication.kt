@@ -1,11 +1,11 @@
-package com.preslavrachev.iviewscheduler
+package com.jamesbrookssoft.iviewscheduler
 
-import com.preslavrachev.iviewscheduler.business.AvailabilityService
-import com.preslavrachev.iviewscheduler.business.model.TimeSlot
-import com.preslavrachev.iviewscheduler.business.model.UserType
-import com.preslavrachev.iviewscheduler.persistence.entity.UserEntity
-import com.preslavrachev.iviewscheduler.persistence.repository.AppointmentDayEntityRepository
-import com.preslavrachev.iviewscheduler.persistence.repository.UserRepository
+import com.jamesbrookssoft.iviewscheduler.business.AvailabilityService
+import com.jamesbrookssoft.iviewscheduler.business.model.TimeSlot
+import com.jamesbrookssoft.iviewscheduler.business.model.UserType
+import com.jamesbrookssoft.iviewscheduler.persistence.entity.UserEntity
+import com.jamesbrookssoft.iviewscheduler.persistence.repository.AppointmentDayEntityRepository
+import com.jamesbrookssoft.iviewscheduler.persistence.repository.UserRepository
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 import org.springframework.context.annotation.Configuration

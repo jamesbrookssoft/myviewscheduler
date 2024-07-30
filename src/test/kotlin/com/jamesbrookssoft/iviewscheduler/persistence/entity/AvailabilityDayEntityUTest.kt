@@ -1,4 +1,4 @@
-package com.preslavrachev.iviewscheduler.persistence.entity
+package com.jamesbrookssoft.iviewscheduler.persistence.entity
 
 import net.onedaybeard.bitvector.bitsOf
 import org.hamcrest.Matchers

@@ -1,4 +1,4 @@
-package com.preslavrachev.iviewscheduler.business.model
+package com.jamesbrookssoft.iviewscheduler.business.model
 
 import net.onedaybeard.bitvector.BitVector
 import net.onedaybeard.bitvector.bitsOf

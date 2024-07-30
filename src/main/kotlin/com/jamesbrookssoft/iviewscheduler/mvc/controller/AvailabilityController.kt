@@ -1,7 +1,7 @@
-package com.preslavrachev.iviewscheduler.mvc.controller
+package com.jamesbrookssoft.iviewscheduler.mvc.controller
 
-import com.preslavrachev.iviewscheduler.business.AvailabilityService
-import com.preslavrachev.iviewscheduler.business.model.TimeSlot
+import com.jamesbrookssoft.iviewscheduler.business.AvailabilityService
+import com.jamesbrookssoft.iviewscheduler.business.model.TimeSlot
 import org.springframework.web.bind.annotation.*
 import java.time.LocalDate
 import java.time.LocalTime
